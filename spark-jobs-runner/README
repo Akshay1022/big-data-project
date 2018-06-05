@@ -1,0 +1,14 @@
+The project uses Maven, so you'll need to install that first.
+
+You'll also want to install MongoDB if you want to run locally, and you will need to start the mongodb process in order
+to actually save to and read form the db:
+
+    $ mongod
+
+When you want to build a jar using Maven use:
+
+    $ mvn clean
+    $ mvn compile
+    $ mvn package
+
+and the packaged "fat" jar should appear in the target/ folder.

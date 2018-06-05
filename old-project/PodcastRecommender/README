@@ -1,0 +1,20 @@
+README
+
+I decided to include my old source code if anyone wants to take a look at it. As 
+I said, it's a rough first pass, and hasn't been fully documented or prepared for
+public consumption. But, it may be of some interest.
+
+I created two modified files that I used recently to scrape the iTunes feeds and
+podcast data to generate our sample data:
+
+* scraper/ItunesFeedUrlLookup.java 
+	- gets the feed url from the iTunes API using iTunes id's in database.
+* scraper/FeedParser.java 
+	- takes the feed urls from database and scrapes the RSS feed, saving to database
+
+Obviously, the database is local on my machine, so these won't be of any use
+until we re-write them to read from / save to file, or have some other solution.
+
+The FeedParser, especially, could be re-written to read from the feed_url.csv file
+in the data/ folder.
+

@@ -1,0 +1,265 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/bin/java -Didea.launcher.port=7533 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA 15 CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/lib/tools.jar:/Users/Jonny/IdeaProjects/PodcastRecommender/target/classes:/Users/Jonny/.m2/repository/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar:/Users/Jonny/.m2/repository/org/xerial/sqlite-jdbc/3.8.11.2/sqlite-jdbc-3.8.11.2.jar:/Applications/IntelliJ IDEA 15 CE.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain scraper.Crawler
+	RSS: http://feeds.5by5.tv/master
+	RSS: http://feeds.feedburner.com/bigwebshowvideo
+	RSS: http://blog.metacdn.com/comments/feed
+	RSS: http://blog.metacdn.com/feed
+	RSS: http://blog.shiftyjelly.com/2009/06/15/is-it-raining-in-melbourne/feed/
+	RSS: http://blog.shiftyjelly.com/2009/10/30/official-bom-reply-re-melbourne-observation-wind/feed/
+	RSS: http://blog.shiftyjelly.com/2009/10/23/pocket-weather-au-2-0-part-4-final/feed/
+	RSS: http://blog.shiftyjelly.com/2009/07/11/version-1-5-is-now-available-in-the-app-store/feed/
+	RSS: http://blog.shiftyjelly.com/2011/03/08/can-android-and-ios-co-exist/feed/
+	RSS: http://feeds.5by5.tv/bigwebshow
+	RSS: http://blog.shiftyjelly.com/2009/04/15/quick-post-observation-overlay/feed/
+	RSS: http://blog.shiftyjelly.com/2009/07/29/the-app-stores-on-fire/feed/
+	RSS: http://blog.shiftyjelly.com/2009/05/05/every-trilogy-needs-a-bad-ending/feed/
+	RSS: http://feeds.gawker.com/gizmodo/full
+	RSS: http://blog.shiftyjelly.com/2009/04/21/is-it-raining-in-your-twitterverse/feed/
+	RSS: http://blog.shiftyjelly.com/2009/03/19/pocket-weather-134-approved/feed/
+	RSS: http://feeds.5by5.tv/quit
+	RSS: http://feeds.5by5.tv/b2w-afterdark
+	RSS: http://blog.shiftyjelly.com/2010/07/20/a-day-in-the-life-of-a-part-time-developer/feed/
+	RSS: http://feeds.5by5.tv/paleo
+	RSS: http://feeds.5by5.tv/dlc
+	RSS: http://blog.shiftyjelly.com/feed/
+	RSS: http://screamer.deadspin.com/rss
+	RSS: http://blog.shiftyjelly.com/2010/03/18/time-bom-its-going-off/feed/
+	RSS: http://blog.shiftyjelly.com/2009/06/04/two-awesome-free-applications-every-iphone-developer-should-have/feed/
+	RSS: http://blog.shiftyjelly.com/2009/06/07/our-first-third-party-application/feed/
+	RSS: http://blog.shiftyjelly.com/2009/05/31/pocket-weather-au-1-4-1-now-available/feed/
+	RSS: http://legal.kinja.com/rss
+	RSS: http://feeds.gawker.com/jezebel/full
+	RSS: http://blog.shiftyjelly.com/2009/05/23/lite-is-the-new-white/feed/
+	RSS: http://blog.shiftyjelly.com/2009/10/20/pocket-weather-au-2-0/feed/
+	RSS: http://blog.shiftyjelly.com/2009/06/04/two-awesome-free-applications-every-iphone-developer-should-have/img_0084/feed/
+	RSS: http://www.iphonealliance.com/index.php/feed/
+	RSS: http://blog.webtype.com/?feed=rss2
+	RSS: http://feeds.feedburner.com/tctv/GillmorGang
+	RSS: http://feeds.feedburner.com/ProgrammableWeb
+	RSS: http://feeds.gawker.com/deadspin/full
+Exception in thread "Thread-6233" java.lang.IllegalArgumentException: protocol = http host = null
+	at sun.net.spi.DefaultProxySelector.select(DefaultProxySelector.java:176)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1099)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:512)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:493)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:205)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:194)
+	at scraper.Crawler$1.run(Crawler.java:74)
+	at java.lang.Thread.run(Thread.java:745)
+	RSS: http://feeds.feedburner.com/AwsGovernmentEducationNonprofitsBlog
+	RSS: http://blogs.aws.amazon.com/php/blog/feed/recentPosts.rss
+ATOM: https://blogs.apache.org/foundation/feed/comments/atom
+	RSS: http://www.myhabitfix.com/blog/rss
+	RSS: http://codeplex.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2fwiki%2fcodeplex
+	RSS: http://codeplex.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2freview%2fcodeplex
+	RSS: http://codeplex.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2fsourcecontrol%2fcodeplex
+	RSS: http://www.codeplex.com/site/feeds/rss
+	RSS: http://www.eurekalert.org/rss.xml
+	RSS: http://www.amazon.com/gp/forum/rss/forum/Fx1Y5DY6CE1K4HA
+	RSS: http://www.amazon.com/gp/forum/rss/forum/Fx3O0GUS5OOQ7GV
+	RSS: http://meduze.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2fsourcecontrol%2fmeduze
+	RSS: http://meduze.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2fwiki%2fmeduze
+	RSS: http://meduze.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2freview%2fmeduze
+	RSS: http://meduze.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2frelease%2fmeduze
+	RSS: http://meduze.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex%3a%2f%2fforum%2fmeduze
+	RSS: http://www.amazon.com/gp/forum/rss/forum/FxPC6HSWBHI4UB
+	RSS: http://www.amazon.com/gp/forum/rss/forum/Fx1K92GIK728NXM
+	RSS: https://www.bitebackpublishing.com/posts/feed
+
+Process finished with exit code 130
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
+ <channel> 
+  <title>The Ricochet Podcast</title> 
+  <atom:link href="https://ricochet.com/series/ricochet-podcast/feed/" rel="self" type="application/rss+xml" /> 
+  <link>
+   https://ricochet.com
+  </link> 
+  <language>
+   en-US
+  </language> 
+  <lastbuilddate>
+   Mon, 14 Mar 2016 19:44:12 +0000
+  </lastbuilddate> 
+  <sy:updateperiod>
+   hourly
+  </sy:updateperiod> 
+  <sy:updatefrequency>
+   1
+  </sy:updatefrequency> 
+  <itunes:summary>
+   Weekly episodes of Ricochet’s flagship podcast feature our hosts James Lileks, Rob Long, Peter Robinson, and guests discussing the issues of the week. Ricochet offers the best, smartest, most interesting conversations on the web. Both for your eyes and your ears. This podcast is free for you to listen to, but it's not free for us to produce. Why not join Ricochet, right now? You'll be able to hear the best in center/right conversation on all of our podcasts, make posts on our member feed, and of course, join the conversation on any post on the site. How much? Brace yourself: it's only $5.00 a month. Why $5.00? Well, when we started Ricochet, we pegged the price arbitrarily to the cost of a grande latte at the flagship Starbucks in Seattle. And that's a good way to think about the mission and the community here on Ricochet -- it's a place to have a cup of coffee with some of the brightest, smartest, most interesting people around -- our contributors and our members. Which we hope includes you. Please become a member, or login at the top of the page if you already are.
+  </itunes:summary> 
+  <itunes:author>
+   The Ricochet Audio Network
+  </itunes:author> 
+  <itunes:owner> 
+   <itunes:name>
+    Ricochet.com
+   </itunes:name> 
+   <itunes:email>
+    support@ricochet.com
+   </itunes:email> 
+  </itunes:owner> 
+  <itunes:category text="News &amp; Politics" /> 
+  <itunes:image href="https://7373-presscdn-0-43-pagely.netdna-ssl.com/wp-content/uploads/2015/09/Ricochet-flagship-podcast.png" /> 
+  <itunes:explicit>
+   no
+  </itunes:explicit> 
+  <copyright>
+   Copyright © 2016 by Ricochet.com
+  </copyright> 
+  <itunes:subtitle>
+   Rapid-fire commentary from a center-right perspective
+  </itunes:subtitle> 
+  <description>
+   Rapid-fire commentary from a center-right perspective
+  </description> 
+  <item> 
+   <title>Ep. 295: Be Afraid</title> 
+   <link>
+    https://ricochet.com/podcasts/be-afraid/
+   </link> 
+   <pubdate>
+    Thu, 10 Mar 2016 19:34:59 +0000
+   </pubdate> 
+   <dc:creator>
+    Ricochet.com
+   </dc:creator> 
+   <guid ispermalink="false">
+    https://ricochet.com/?post_type=podcasts&amp;p=320419
+   </guid> 
+   <description>
+    &lt;p&gt;This week&amp;#8217;s podcast is a large as the plains that our guest, Senator Ben Sasse (R-NE) hails from. We go from Trump, to party loyalties, to Rubio vs. Cruz, to remembering Nancy Reagan, Camille Paglia, and more. With the Senator, we delve into his very public argument against Donald Trump as the party standard bearer, why he&amp;#8217;s a conservative, and&amp;#8230;&lt;/p&gt; &lt;p&gt;The post &lt;a rel="nofollow" href="https://ricochet.com/podcasts/be-afraid/"&gt;Be Afraid&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://ricochet.com"&gt;Ricochet&lt;/a&gt;.&lt;/p&gt; 
+   </description> 
+   <content:encoded>
+    &lt;p&gt;This week&amp;#8217;s podcast is a large as the plains that our guest, &lt;a target='_blank' href="https://twitter.com/bensasse"&gt;Senator Ben Sasse (R-NE)&lt;/a&gt; hails from. We go from Trump, to party loyalties, to Rubio vs. Cruz, to remembering Nancy Reagan, &lt;a target='_blank' href="http://www.salon.com/2016/03/10/i_was_wrong_about_donald_trump_camille_paglia_on_the_gop_front_runners_refreshing_candor_and_his_impetuousness_too/"&gt;Camille Paglia&lt;/a&gt;, and more. With the Senator, we delve into his very public argument against Donald Trump as the party standard bearer, why he&amp;#8217;s a conservative, and the upcoming battle over the next Supreme Court nominee. &lt;p&gt;Music from this week’s episode: &lt;div class=clear&gt;&lt;/div&gt; &lt;a href=https://ricochet.com/podcasts/be-afraid/ class='more-link button tiny'&gt;Read On&lt;/a&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://ricochet.com/podcasts/be-afraid/"&gt;Be Afraid&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://ricochet.com"&gt;Ricochet&lt;/a&gt;.&lt;/p&gt; 
+   </content:encoded> 
+   <itunes:author>
+    The Ricochet Podcast
+   </itunes:author> 
+   <itunes:summary>
+    This week's podcast is a large as the plains that our guest, Senator Ben Sasse (R-NE) hails from. We go from Trump, to party loyalties, to Rubio vs. Cruz, to remembering Nancy Reagan,&nbsp;&lt;a href="http://www.salon.com/2016/03/10/i_was_wrong_about_donald_trump_camille_paglia_on_the_gop_front_runners_refreshing_candor_and_his_impetuousness_too/"&gt;Camille Paglia&lt;/a&gt;, and more. With the Senator, we delve into his very public argument against Donald Trump as the party standard bearer, why he's a conservative, and the upcoming battle over the next Supreme Court nominee. Music from this week’s episode: &lt;a href="https://www.youtube.com/watch?v=u7APmRkatEU"&gt;&lt;i&gt;I'm Afraid of Americans&lt;/i&gt;&nbsp;&lt;/a&gt;by David Bowie The opening sequence for the Ricochet Podcast was composed and produced by&nbsp;&lt;a href="http://lileks.com/"&gt;James Lileks.&lt;/a&gt; Sign it,&nbsp;&lt;a href="http://ricochet.com/Profile/1845"&gt;EJHill&lt;/a&gt;! Yes,&nbsp;&lt;a href="https://itunes.apple.com/us/podcast/the-ricochet-podcast/id699723863?mt=2"&gt;you should absolutely subscribe to this podcast&lt;/a&gt;. It helps! &lt;strong&gt;Support Our Sponsors&lt;/strong&gt; &lt;img class="alignleft wp-image-313004" src="https://7373-presscdn-0-43-pagely.netdna-ssl.com/wp-content/uploads/2016/02/Ricochet400.jpg" alt="Ricochet400" width="210" height="210" /&gt;This podcast is brought to you by Hillsdale College and their Constitution 101 course. You can sign up for FREE today. Once you start the course, you’ll receive a new lecture every week to watch on demand, along with readings, discussion boards, and more. Sign up for&nbsp;Constitution&nbsp;101&nbsp;for FREE at&nbsp;&lt;a href="http://hillsdale.edu/ricochet"&gt;Hillsdale.edu/Ricochet&lt;/a&gt; &amp;nbsp; &amp;nbsp; &lt;img class="alignleft wp-image-235714" src="https://7373-presscdn-0-43-pagely.netdna-ssl.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-20-at-8.56.20-AM.png" alt="Screen Shot 2015-02-20 at 8.56.20 AM" width="185" height="155" /&gt;This podcast is brought to you by&nbsp;&lt;a href="http://harrys.com/"&gt;Harry’s Shave&lt;/a&gt;. For the finest shave at the best price, got&nbsp;&lt;a href="http://harrys.com/"&gt;Harrys.com&lt;/a&gt;&nbsp;and use the coupon code RICOCHET at checkout. &amp;nbsp; &amp;nbsp; &lt;img class="alignleft wp-image-296330" src="https://7373-presscdn-0-43-pagely.netdna-ssl.com/wp-content/uploads/2015/11/Casper-Red-Antler-eyes-mark-011-960x589.jpg" alt="Casper-Red-Antler-eyes-mark-011-960x589" width="179" height="110" /&gt;Get premium mattresses for a fraction of the price delivered to your door! Casper is revolutionizing the mattress industry by cutting the cost of dealing with resellers and showrooms and passing that savings directly to the consumer.&nbsp;Get $50 off your first purchase!&nbsp;Go to&nbsp;&lt;a href="http://casper.com/Ricochet"&gt;Casper.com/Ricochet&lt;/a&gt;&nbsp;and use the coupon code RICOCHET at checkout.
+   </itunes:summary> 
+   <itunes:image href="https://7373-presscdn-0-43-pagely.netdna-ssl.com/wp-content/uploads/2016/03/Constitutionalists.png" /> 
+   <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.ricochet.com/wp-content/uploads/2016/03/Ricochet-Podcast-295.mp3" length="34446469" type="audio/mpeg" /> 
+   <itunes:duration>
+    1:01:15
+   </itunes:duration> 
+  </item> 
+
+
+
+
+
+  <?xml version="1.0" encoding="UTF-8"?> 
+<!--Generated by Site-Server v6.0.0-7172-7172 (http://www.squarespace.com) on Thu, 10 Mar 2016 19:32:45 GMT
+-->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+ <channel>
+  <title>Accidental Tech Podcast</title>
+  <link>
+   http://atp.fm/
+  </link>
+  <lastbuilddate>
+   Thu, 10 Mar 2016 03:44:42 +0000
+  </lastbuilddate>
+  <language>
+   en-US
+  </language>
+  <generator>
+   Site-Server v6.0.0-7172-7172 (http://www.squarespace.com)
+  </generator>
+  <itunes:author>
+   Marco Arment, Casey Liss, John Siracusa
+  </itunes:author>
+  <itunes:subtitle>
+   Three nerds discussing tech, Apple, programming, and loosely related matters.
+  </itunes:subtitle>
+  <itunes:summary>
+   Three nerds discussing tech, Apple, programming, and loosely related matters.
+  </itunes:summary>
+  <description>
+   Three nerds discussing tech, Apple, programming, and loosely related matters.
+  </description>
+  <itunes:explicit>
+   no
+  </itunes:explicit>
+  <itunes:keywords>
+   tech,technology,gadgets,geek,john,siracusa,marco,arment,casey,liss,apple,mac,iphone,ipad,ios,development,software
+  </itunes:keywords>
+  <itunes:owner>
+   <itunes:name>
+    atp@marco.org
+   </itunes:name>
+   <itunes:email>
+    atp@marco.org
+   </itunes:email>
+  </itunes:owner>
+  <itunes:category text="Technology" />
+  <itunes:image href="http://static1.squarespace.com/static/513abd71e4b0fe58c655c105/t/52c45a37e4b0a77a5034aa84/1388599866232/1500w/Artwork.jpg" />
+  <item>
+   <title>160: Be Careful Out There</title>
+   <dc:creator>
+    Marco Arment
+   </dc:creator>
+   <pubdate>
+    Thu, 10 Mar 2016 19:32:44 +0000
+   </pubdate>
+   <link>
+    http://atp.fm/episodes/160
+   </link>
+   <guid ispermalink="false">
+    513abd71e4b0fe58c655c105:513abd71e4b0fe58c655c111:56e0edaa60b5e96aec1febe3
+   </guid>
+   <description>
+     &lt;ul&gt; &lt;li&gt;Follow-up:&lt;ul&gt; &lt;li&gt;&lt;a href="https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/"&gt;SQL Server on Linux&lt;/a&gt;&lt;/li&gt; &lt;li&gt;TV Mounts&lt;ul&gt; &lt;li&gt;&lt;a href="https://www.dynamicmounting.com/"&gt;Dynamic Mounting&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.mantelmount.com/"&gt;Mantel Mount&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Marco's surprising product review&lt;/li&gt; &lt;li&gt;Marketing the next 9.7-inch iPad&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.transmissionbt.com/"&gt;Transmission&lt;/a&gt;'s &lt;a href="http://www.macworld.com/article/3040987/security/apple-shuts-down-first-ever-ransomware-attack-against-mac-users.html"&gt;ransomware infection&lt;/a&gt;&lt;ul&gt; &lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT202491"&gt;Gatekeeper&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;The future of Mac OS X&lt;ul&gt; &lt;li&gt;&lt;a href="http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list"&gt;Steve Troughton-Smith's WWDC Wish List&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.omnigroup.com/"&gt;Omni Group&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://macromates.com/"&gt;Textmate&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Ending theme by &lt;a href="http://jonathanmann.net"&gt;Jonathan Mann&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Post-show: John doesn't go to Las Vegas.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Sponsored by:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://www.fractureme.com/"&gt;Fracture&lt;/a&gt;: Photos printed in vivid color directly on glass. Use promo code &lt;strong&gt;ATP10&lt;/strong&gt; for 10% off your first order.&lt;/li&gt; &lt;li&gt;&lt;a href="http://squarespace.com/atp"&gt;Squarespace&lt;/a&gt;: Build it beautiful. Use code &lt;strong&gt;ATP&lt;/strong&gt; for 10% off your first order.&lt;/li&gt; &lt;li&gt;&lt;a href="http://hover.com/atp"&gt;Hover&lt;/a&gt;: The best way to buy and manage domain names. Use coupon code &lt;strong&gt;CRAIGSHOUSE&lt;/strong&gt; for 10% off your first purchase.&lt;/li&gt; &lt;/ul&gt; 
+   </description>
+   <itunes:author>
+    ATP
+   </itunes:author>
+   <itunes:subtitle>
+    Mac ransomware, the future of Mac OS X, and a surprising product review.
+   </itunes:subtitle>
+   <itunes:explicit>
+    no
+   </itunes:explicit>
+   <itunes:duration>
+    01:26:11
+   </itunes:duration>
+   <itunes:image href="http://static1.squarespace.com/static/513abd71e4b0fe58c655c105/t/52c45a37e4b0a77a5034aa84/1388599866232/1500w/Artwork.jpg" />
+   <enclosure url="http://traffic.libsyn.com/atpfm/atp160.mp3" length="62176879" />
+  </item>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"> 
+ <channel> 
+  <title>Comments on: Our First Third Party Application</title> 
+  <atom:link href="http://blog.shiftyjelly.com/2009/06/07/our-first-third-party-application/feed/" rel="self" type="application/rss+xml" /> 
+  <link>
+   http://blog.shiftyjelly.com/2009/06/07/our-first-third-party-application/
+  </link> 
+  <description>
+   because some things were meant to be shifty...
+  </description> 
+  <lastbuilddate>
+   Sat, 01 Jun 2013 07:12:49 +0000
+  </lastbuilddate> 
+  <sy:updateperiod>
+   hourly
+  </sy:updateperiod> 
+  <sy:updatefrequency>
+   1
+  </sy:updatefrequency> 
+  <generator>
+   http://wordpress.com/
+  </generator> 
+ </channel> 
+</rss>

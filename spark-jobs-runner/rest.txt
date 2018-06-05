@@ -1,0 +1,25 @@
+For fetching all podcast rss feeds and loading them into the mongo database:
+
+POST /v1/projects/utd-podcast-recommender/regions/global/jobs:submit/
+{
+  "projectId": "utd-podcast-recommender",
+  "job": {
+    "placement": {
+      "clusterName": "podcast-recommender-cluster"
+    },
+    "reference": {
+      "jobId": "e071b5a6-95a3-40ed-b102-01e1d62092b7"
+    },
+    "sparkJob": {
+      "args": [
+        "parse-feeds-cluster",
+        "gs://dataproc-efe5a231-ee47-4ad1-bf49-7391797a93a6-us/feed_url.csv"
+      ],
+      "mainClass": "edu.utdallas.spark.JobRunner",
+      "jarFileUris": [
+        "gs://dataproc-efe5a231-ee47-4ad1-bf49-7391797a93a6-us/spark-jobs-runner-1.0-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
+
